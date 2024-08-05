@@ -1,0 +1,57 @@
+.main-section-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; /* Centers children horizontally */
+    height: 100vh; /* Full viewport height */
+    background-color: lightgrey; /* Optional: Background color to show centering */
+    padding-top: 20px; /* Optional: Padding from the very top of the viewport */
+  }
+  
+  .text {
+    font-size: 3em;
+    font-family: 'PT Sans', sans-serif;
+    text-align: center; /* Center text horizontally */
+  }
+  
+  .fitness-link {
+    display: block;
+    font-size: 1em;
+    font-family: 'PT Sans', sans-serif;    
+    text-align: center;
+    color: black;
+    margin-top: 10px;
+  }
+  
+  .middle-two {
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    margin-top: 30px; /* Adjust this value to control the spacing from the .text section */
+  }
+  
+  .coach-review {
+    display: block; /* Changed from inline-block for consistency */
+    text-align: center;
+    padding: 10px 20px;
+    background-color: white;
+    color: #333;
+    border-radius: 10px;
+    font-size: 1.5em;
+    margin: 50px 0; /* Adds vertical margin above and below the review sections */
+    line-height: 3;
+  }
+  
+  .person {
+    text-align: center;
+    margin-bottom: 60px; /* Adjust this value to control the space below each person section */
+  }
+  
+  .person img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .person p {
+    font-size: 1.5em;
+    font-family: 'PT Sans', sans-serif;
+  }
