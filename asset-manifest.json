@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fitmodesty/static/css/main.1d5eb93d.css",
-    "main.js": "/fitmodesty/static/js/main.dcc80524.js",
+    "main.js": "/fitmodesty/static/js/main.d0ee5e54.js",
     "index.html": "/fitmodesty/index.html",
     "main.1d5eb93d.css.map": "/fitmodesty/static/css/main.1d5eb93d.css.map",
-    "main.dcc80524.js.map": "/fitmodesty/static/js/main.dcc80524.js.map"
+    "main.d0ee5e54.js.map": "/fitmodesty/static/js/main.d0ee5e54.js.map"
   },
   "entrypoints": [
     "static/css/main.1d5eb93d.css",
-    "static/js/main.dcc80524.js"
+    "static/js/main.d0ee5e54.js"
   ]
 }
